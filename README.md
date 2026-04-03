@@ -20,5 +20,6 @@ Experienced in program and project execution, process optimization, data-driven 
 - Project Management Graduate Certificate – Portland State University  
 
 ## Contact ✉️📞
-- Email: yashwanth9etm@gmail.com  
+- Email: yashwanth9etm@gmail.com
+  
 - LinkedIn: https://www.linkedin.com/in/yashwanthdharipelli
