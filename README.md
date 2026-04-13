@@ -26,19 +26,19 @@ With hands-on experience spanning **KPI dashboards**, **resource & schedule plan
 
 ## 🛠️ Core Skills
 
-**🔵 Program & Project Execution**
+**📅⚙️ Program & Project Execution**
 `Lifecycle Planning` `Risk & Dependency Tracking` `Milestone Management` `Process Optimization` `Scope Management`
 
-**🟣 Data & Analytics**
+**📊💻  Data & Analytics**
 `SQL` `Power BI` `Tableau` `Advanced Excel` `KPI Dashboards` `Forecasting` `Trend & Failure Analysis`
 
-**🩷 Supply Chain & Operations**
+**🏭📦  Supply Chain & Operations**
 `Resource & Schedule Planning` `Supplier & Vendor Coordination` `Inventory Optimization` `Workflow Standardization` `Readiness Evaluation`
 
-**🩵 Technical Systems & Verification**
+**🔧🖥️  Technical Systems & Verification**
 `Hardware/Software Integration` `Embedded System Testing` `Root Cause Analysis` `Test Automation` `Validation Flows` `CI/CD Pipelines`
 
-**🟡 Collaboration & Leadership**
+**🤝📢 Collaboration & Leadership**
 `Cross-functional Communication` `Stakeholder Alignment` `Structured Reporting` `Team Mentoring`
 
 ---
