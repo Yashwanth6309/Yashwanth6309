@@ -18,7 +18,7 @@
 
 ## 👤 About Me
 
-Experienced professional specializing in **end-to-end program and project execution**, with a strong foundation in **data-driven decision-making**, **supply chain operations**, and **process optimization**. I translate complex project requirements into structured, scalable delivery frameworks — aligning cross-functional teams, managing risk and dependencies, and driving measurable outcomes across timelines and budgets.
+Experienced professional specializing in **end-to-end program and project execution**, with a strong foundation in **data-driven decision-making**, and **process optimization**. I translate complex project requirements into structured, scalable delivery frameworks — aligning cross-functional teams, managing risk and dependencies, and driving measurable outcomes across timelines and budgets.
 
 With hands-on experience spanning **KPI dashboards**, **resource & schedule planning**, **vendor coordination**, and **technical systems verification**, I bring a rigorous analytical mindset to every initiative.
 
