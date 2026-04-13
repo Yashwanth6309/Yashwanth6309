@@ -35,6 +35,9 @@ With hands-on experience spanning **KPI dashboards**, **resource & schedule plan
 **🩷 Supply Chain & Operations**
 `Resource & Schedule Planning` `Supplier & Vendor Coordination` `Inventory Optimization` `Workflow Standardization` `Readiness Evaluation`
 
+**🩵 Technical Systems & Verification**
+`Hardware/Software Integration` `Embedded System Testing` `Root Cause Analysis` `Test Automation` `Validation Flows` `CI/CD Pipelines`
+
 **🟡 Collaboration & Leadership**
 `Cross-functional Communication` `Stakeholder Alignment` `Structured Reporting` `Team Mentoring`
 
@@ -42,9 +45,13 @@ With hands-on experience spanning **KPI dashboards**, **resource & schedule plan
 
 ## 🏅 Certifications & Awards
 
-> 🎓 **Project Management Graduate Certificate** — Portland State University
+<div align="center">
 
-> 🏆 **Dunder F. Kocaoglu Endowed ETM Fellowship** (2024–2025) — Received for outstanding academic excellence, Portland State University
+![Cert](https://img.shields.io/badge/🎓%20Project%20Management%20Graduate%20Certificate-Portland%20State%20University-4338ca?style=for-the-badge&labelColor=1e1b4b)
+
+![Award](https://img.shields.io/badge/🏆%20Dunder%20F.%20Kocaoglu%20Endowed%20ETM%20Fellowship%202024--2025-Outstanding%20Academic%20Excellence%20%7C%20Portland%20State%20University-d97706?style=for-the-badge&labelColor=78350f)
+
+</div>
 
 ---
 
