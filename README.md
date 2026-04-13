@@ -9,7 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=15&duration=3000&pause=900&color=6366F1&center=true&vCenter=true&width=540&lines=Program+%26+Project+Execution+Specialist;Data-Driven+Decision+Making;Supply+Chain+%26+Operations+Professional;Process+Optimization)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashwanth-dharipelli-9403b2246/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](yashwanth9etm@gmail.com)
+📧 [yashwanth9etm@gmail.com](mailto:yashwanth9etm@gmail.com)
 ![Portland](https://img.shields.io/badge/Portland%2C_OR-6366f1?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
