@@ -1,10 +1,12 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,12,20&height=200&section=header&text=Yashwanth%20Dharipelli&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Program%20%26%20Project%20Manager%20%E2%80%A2%20Data%20Analytics%20%E2%80%A2%20Supply%20Chain%20%26%20Operations&descAlignY=60&descColor=e0e7ff&descSize=14" />
-</div>
 
-<div align="center">
+![header](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&size=32&duration=1&pause=999999&color=1a1f2e&center=true&vCenter=true&width=700&height=60&lines=Yashwanth+Dharipelli)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=16&duration=3000&pause=900&color=6366F1&center=true&vCenter=true&width=540&lines=Program+%26+Project+Execution+Specialist;Data-Driven+Decision+Maker;Supply+Chain+%26+Operations+Professional;Process+Optimization+Practitioner)](https://git.io/typing-svg)
+![subtitle](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=400&size=15&duration=1&pause=999999&color=6366f1&center=true&vCenter=true&width=700&height=30&lines=Program+%26+Project+Manager+%E2%80%A2+Data+Analytics+%E2%80%A2+Supply+Chain+%26+Operations)
+
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=15&duration=3000&pause=900&color=6366F1&center=true&vCenter=true&width=540&lines=Program+%26+Project+Execution+Specialist;Data-Driven+Decision+Making;Supply+Chain+%26+Operations+Professional;Process+Optimization)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashwanthdharipelli)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashwanth9etm@gmail.com)
@@ -38,9 +40,11 @@ With hands-on experience spanning **KPI dashboards**, **resource & schedule plan
 
 ---
 
-## 🏅 Certification
+## 🏅 Certifications & Awards
 
 > 🎓 **Project Management Graduate Certificate** — Portland State University
+
+> 🏆 **Dunder F. Kocaoglu Endowed ETM Fellowship** (2024–2025) — Received for outstanding academic excellence, Portland State University
 
 ---
 
@@ -86,6 +90,5 @@ Developed a cost-effective, low-power dual soft-switch system for industrial aut
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,12,20&height=100&section=footer" />
 <sub>Portland, OR &nbsp;·&nbsp; yashwanth9etm@gmail.com &nbsp;·&nbsp; linkedin.com/in/yashwanthdharipelli</sub>
 </div>
